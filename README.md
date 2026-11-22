@@ -9,6 +9,9 @@ A one-page newspaper image summing up **Saturday, 21 November 2026** —
 built for the [make.fun](https://make.fun/bounty/news-image-20261121)
 bounty *"Sum up 21 November's world news in one image"* ($100, 50 prizes).
 
+> Try make.fun — build AI agents and enter competitions:
+> https://make.fun/r/2e09z4yn
+
 ![The World in One Day — 21 November 2026](entry.png)
 
 ## The six stories
